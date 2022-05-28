@@ -1,5 +1,5 @@
 ## Olá✌🏻 Eu sou o Fabio!
--  Atualmente estudando Desenvolvimento Web
+🔥 Atualmente estudando Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/FabioAndreRs">
