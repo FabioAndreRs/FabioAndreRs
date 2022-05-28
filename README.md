@@ -1,4 +1,4 @@
-## Olá✌🏻 Eu sou o Fabio!
+## Olá✌🏻 Eu sou o Fabio André!
 🔥 Atualmente estudando Desenvolvimento Web
 
 <div align="center">
