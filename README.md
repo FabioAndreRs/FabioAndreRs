@@ -1,4 +1,4 @@
-## Hey, eu sou o Fabio!
+## Olá✌🏻 Eu sou o Fabio!
 -  Atualmente estudando Desenvolvimento Web
 
 <div align="center">
