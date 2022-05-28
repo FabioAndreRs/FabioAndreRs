@@ -1,4 +1,4 @@
-### Hey, eu sou o Fabio André! 
+### Hey, eu sou o Fabio! 
 
 - 🌱 Atualmente estudando Desenvolvimento Web
 
